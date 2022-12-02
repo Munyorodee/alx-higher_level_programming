@@ -35,8 +35,6 @@ File Name|Task Name|Task Description
 [101-relationship_states_cities_list.py](0x0F-python-object_relational_mapping/101-relationship_states_cities_list.py)|16. List relationship|Write a script that lists all State objects, and corresponding City objects, contained in the database hbtn_0e_101_usa
 [102-relationship_cities_states_list.py](0x0F-python-object_relational_mapping/102-relationship_cities_states_list.py)|17. From city|Write a script that lists all City objects from the database hbtn_0e_101_usa
 
-
-
-## Author
-- Yohanes Gutema
+## AUTHOR
+- MUNYORO MD
 
